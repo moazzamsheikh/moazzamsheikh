@@ -30,7 +30,7 @@ A web development project focusing on financial solutions for businesses.
   - Chart.js for data visualization.
 - **Installation**:
   ```bash
-  git clone https://github.com/yourusername/finance
+  git clone https://github.com/moazzamsheikh/valentine
   cd finance
   open index.html
   ```
@@ -46,7 +46,7 @@ A web application designed to streamline project management.
   - React.js, Firebase.
 - **Installation**:
   ```bash
-  git clone https://github.com/yourusername/orizon
+  git clone https://github.com/moazzamsheikh/valentine
   cd orizon
   npm install
   npm start
